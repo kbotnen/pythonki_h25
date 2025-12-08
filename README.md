@@ -29,3 +29,9 @@ Vi kan bruke Google sin Teachable Machine [https://teachablemachine.withgoogle.c
     % conda activate tensorflow
     % pip install tensorflow==2.13
     % pip install opencv-python
+
+*Med miljøet beskrevet over vil det være mulig å laste inn TensorFlow -> Keras (h5) som er anbefalt eksportformat fra Teachable Machine.*
+
+Hvordan bruke Teachable Machine for å trene en KI modell med egne bilder: [https://youtu.be/ie9d9VUnKAc](https://youtu.be/ie9d9VUnKAc)
+
+Hvordan opprette et virtuelt kjøremiljø lokalt på maskinen i Visual Studio Code: [https://youtu.be/Sk4vXDUb2UI](https://youtu.be/Sk4vXDUb2UI)
